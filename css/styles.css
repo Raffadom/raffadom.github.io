@@ -213,10 +213,10 @@
 
 .devicon-cursor-custom::before {
     content: "";
-    display: block;
-    width: 100%;
+    display: inline-block;
+    width: 1em;
     height: 1em;
-    background-image: url('https://simpleicons.org/icons/cursor.svg');
+    background-image: url('../img/cursor.svg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
